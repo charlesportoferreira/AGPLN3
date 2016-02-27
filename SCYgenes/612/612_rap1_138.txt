@@ -1,0 +1,3 @@
+Analysis of interaction between Ras and CDC25 guanine nucleotide exchange factor using yeast GAL4 two-hybrid system.
+
+Our results demonstrate that the GAL4 two-hybrid system can be useful for studying interactions of the wild-type and mutant forms of Ras proteins with the CDC25 guanine nucleotide exchange factor (CDC25-GEF). In addition, our findings show that a negative result in the GAL4 two-hybrid system does not indicate that the two proteins tested do not interact under all conditions but only that they do not interact under the specific conditions examined. We recommend that the two-hybrid system be employed in combination with other approaches, including molecular genetic analyses and in vitro binding experiments, for the study of Ras and CDC25-GEF interactions.

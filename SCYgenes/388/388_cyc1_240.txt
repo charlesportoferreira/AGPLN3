@@ -1,0 +1,3 @@
+Functional characterization of a pyrimidine-rich element in the 5'-noncoding region of the yeast iso-1-cytochrome c gene.
+
+A predominantly pyrimidine-rich sequence (purine in the template strand, 32 of 37 bases) is located between a functional TATA element and the corresponding transcription start site region of the Saccharomyces cerevisiae iso-1-cytochrome c (CYC1) gene. By using linker deletions and gene fusion techniques, the functional characteristics of this pyrimidine sequence were examined. Results indicate that the function of this element is to limit the accumulation of full-length mRNAs with 5' ends which map upstream of the pyrimidine-rich sequence. Data suggest that the 5'-noncoding region of the CYC1 gene possesses signals for mRNA 3'-end processing.

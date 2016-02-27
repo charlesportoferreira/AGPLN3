@@ -1,0 +1,3 @@
+A mutation in mouse rad51 results in an early embryonic lethal that is suppressed by a mutation in p53.
+
+RecA in Escherichia coli and its homolog, ScRad51 in Saccharomyces cerevisiae, are known to be essential for recombinational repair. The homolog of RecA and ScRad51 in mice, MmRad51, was mutated to determine its function. Mutant embryos arrested early during development. A decrease in cell proliferation, followed by programmed cell death and chromosome loss, was observed. Radiation sensitivity was demonstrated in trophectoderm-derived cells. Interestingly, embryonic development progressed further in a p53 null background; however, fibroblasts derived from double-mutant embryos failed to proliferate in tissue culture.

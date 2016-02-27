@@ -1,0 +1,3 @@
+Revised nucleotide sequence of the COR region of yeast Saccharomyces cerevisiae chromosome X.
+
+The COR region, a gene cluster located on chromosome X of Saccharomyces cerevisiae and including genes CYC1, UTR1, UTR3, OSM1, tRNA(Gly) and RAD7, was sequenced within the framework of the European Union genome systematic sequencing project. It was compared with previously published sequences to be found in GenBank under the acronym YSCCORA. While some of the discrepancies observed can be readily ascribed to polymorphism, others most probably result from sequencing errors. A revised version of the sequence of the COR cluster is given.

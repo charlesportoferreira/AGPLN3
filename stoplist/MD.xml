@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stopfile>
+	<stopword>may</stopword>
+	<stopword>footprinting</stopword>
+	<stopword>will</stopword>
+	<stopword>need</stopword>
+	<stopword>might</stopword>
+	<stopword>could</stopword>
+	<stopword>can</stopword>
+	<stopword>Can</stopword>
+	<stopword>would</stopword>
+	<stopword>should</stopword>
+	<stopword>cannot</stopword>
+	<stopword>must</stopword>
+	<stopword>ca</stopword>
+</stopfile>
+

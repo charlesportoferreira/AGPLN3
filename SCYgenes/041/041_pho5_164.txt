@@ -1,0 +1,3 @@
+The nucleotide sequence of the yeast PHO5 gene: a putative precursor of repressible acid phosphatase contains a signal peptide.
+
+The nucleotide sequence of the PHO5 gene of the yeast, Saccharomyces cerevisiae, which encodes repressible acid phosphatase (APase) was determined. Comparison of N-terminal amino acid sequence deduced from the nucleotide sequence with that of the purified repressible APase revealed the existence of a putative signal peptide in the precursor protein. The signal peptide was shown to contain 17 amino acid residues and its structural features were quite similar to those of higher eukaryotic and prokaryotic signal peptides. The nucleotide sequence of 5' and 3' noncoding flanking regions of the PHO5 gene are also discussed.

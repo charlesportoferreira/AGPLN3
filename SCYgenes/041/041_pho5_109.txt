@@ -1,0 +1,3 @@
+[Optimization of expression of hepatitis B surface antigen gene in yeasts]
+
+A series of recombinant plasmids has been constructed for expression of the hepatitis B viral surface antigen gene (HBsAg) under the control of the regulatory elements of the yeast acidic phosphatase gene (PHO5). The obtained plasmids possess the high mitotic and structural stability in the transformant yeast cells. The effect of different structural modifications of the vector on the level of HBsAg synthesis in yeasts has been studied. Optimal construction devoid of the bacterial DNA sequences and pre-S region has been selected.

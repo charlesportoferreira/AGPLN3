@@ -1,0 +1,3 @@
+RAD51-independent break-induced replication to repair a broken chromosome depends on a distant enhancer site.
+
+Without the RAD51 strand exchange protein, Saccharomyces cerevisiae cannot repair a double-strand break (DSB) by gene conversion. However, cells can repair DSBs by recombination-dependent, break-induced replication (BIR). RAD51-independent BIR is initiated more than 13 kb from the DSB. Repair depends on a 200-bp sequence adjacent to ARS310, located approximately 34 kb centromere-proximal to the DSB, but does not depend on the origin activity of ARS310. We conclude that the ability of a recombination-induced replication fork to copy &gt; 130 kb to the end of the chromosome depends on a special site that enhances assembly of a processive repair replication fork.

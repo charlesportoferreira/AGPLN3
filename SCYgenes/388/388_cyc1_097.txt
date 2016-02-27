@@ -1,0 +1,3 @@
+Yeast phylogenetic relationships based on cytochrome c sequences.
+
+The availability of the KICYC1 sequence was used to establish homologies with other cytochrome c genes from yeasts and the fungus Neurospora crassa. In terms of nucleotide composition, the cytochrome c gene from Kluyveromyces lactis showed a higher homology with Schwanniomyces occidentalis than with Saccharomyces cerevisiae, and this point is discussed in regard to the differences found in the codon usage of these yeasts. The deduced amino acidic composition of the protein facilitated comparison of its sequence with other cytochrome c protein sequences and new assignments of phylogenetic relationships. In this context Kluyveromyces lactis was most closely related to Candida krusei.

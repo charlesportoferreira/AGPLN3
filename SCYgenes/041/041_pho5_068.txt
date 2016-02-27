@@ -1,0 +1,3 @@
+Phosphorylation of the transcription factor PHO4 by a cyclin-CDK complex, PHO80-PHO85.
+
+Induction of the yeast gene PHO5 is mediated by the transcription factors PHO2 and PHO4. PHO5 transcription is not detectable in high phosphate; it is thought that the negative regulators PHO80 and PHO85 inactivate PHO2 and PHO4. Here it is reported that PHO80 has homology to yeast cyclins and interacts with PHO85, a p34cdc2/CDC28-related protein kinase. The PHO80-PHO85 complex phosphorylates PHO4; this phosphorylation is correlated with negative regulation of PHO5. These results demonstrate the existence of a cyclin-cdk complex that is used for a regulatory process other than cell-cycle control and identify a physiologically relevant substrate for this complex.

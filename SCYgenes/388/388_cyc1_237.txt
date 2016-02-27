@@ -1,0 +1,3 @@
+Yeast HAP2 and HAP3: transcriptional activators in a heteromeric complex.
+
+Transcription of the yeast C upsilon C1 gene (iso-1-cytochrome c) is regulated in part by the upstream activation site UAS2. Activity of UAS2 requires both the HAP2 and HAP3 activators, which bind to UAS2 in an interdependent manner. To distinguish whether these factors bound to UAS2 cooperatively or formed a complex in the absence of DNA, HAP2 and HAP3 were tagged by gene fusion to LexA and beta-galactosidase, respectively, and purified through four chromatographic steps. The copurification of LexA-HAP2, HAP3 beta-galactosidase, and UAS2 binding activity shows that HAP2 and HAP3 associate in the absence of DNA to form a multisubunit activation complex.

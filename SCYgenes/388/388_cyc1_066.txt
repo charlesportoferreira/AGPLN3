@@ -1,0 +1,3 @@
+Phylogenetic relationships of fungal cytochromes c.
+
+The CYC1 gene encoding cytochrome c in the yeast Candida albicans was cloned by complementation of a cytochrome c-deficient mutant of Saccharomyces cerevisiae, and its DNA sequence was determined. The analysis of the amino acid sequences of cytochrome c from 14 fungal species and two isoforms from S. cerevisiae revealed sequences unique to fungi, and revealed a phylogenetic relationship with a pronounced divergence between Schizosaccharomyces pombe and other ascomycetous budding yeast.

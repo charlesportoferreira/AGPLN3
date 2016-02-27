@@ -1,0 +1,3 @@
+[Cloning, structure and features of a Saccharomyces cerevisiae DNA fragment causing the expression of reporter genes]
+
+A DNA fragment &quot;PX&quot; of 240 b.p. was isolated at random from the genomic sequences of S. cerevisiae by using a plasmid that contained a promoterless reporter gene lacZ of E. coli. &quot;PX&quot; was capable of activating synthesis of three reporter genes (pho5 from yeast and bacterial lacZ and neo) in yeast cells bidirectionally. Results of Southern-blot hybridization with yeast genomic DNA suggest that the cloned sequence is represented in at least ten copies per cell. Nucleotide sequence of &quot;PX&quot; shows that DNA contains putative TATA elements and four tandems of inverted repeats: [sequence: see text].

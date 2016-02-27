@@ -1,0 +1,3 @@
+Anatomy of a hypersensitive site.
+
+The 600-bp accessible region at the activated PHO5 promoter in S. cerevisiae has become a paradigm for hypersensitive sites. In this review, we summarize the various experimental strategies used to characterize chromatin at the active promoter and point out their virtues and their limitations. We describe the properties of chromatin at the active PHO5 promoter and what we currently know about the transition from the inactive to the active state. The implications for generating a hypersensitive region in chromatin are discussed.

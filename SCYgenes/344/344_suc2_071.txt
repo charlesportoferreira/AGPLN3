@@ -1,0 +1,3 @@
+New SNF genes, GAL11 and GRR1 affect SUC2 expression in Saccharomyces cerevisiae.
+
+To identify new genes required for depression of the SUC2 (invertase) gene in Saccharomyces cerevisiae, we have isolated mutants with defects in raffinose utilization. In addition to mutations in SUC2 and previously identified SNF genes, we recovered recessive mutations that define four new complementation groups, designated snf7 through snf10. These mutations cause defects in the derepression of SUC2 in response to glucose limitation. We also recovered five alleles of gal11 and showed that a gal11 null mutation decreases SUC2 expression to 30% of the wild-type level. Finally, one of the mutants carries a grr1 allele that converts SUC2 from a glucose-inducible gene.

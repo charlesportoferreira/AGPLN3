@@ -1,0 +1,3 @@
+Transcription factors are required for the meiotic recombination hotspot at the HIS4 locus in Saccharomyces cerevisiae.
+
+The full activity of a recombination initiation site located 5' of HIS4 requires the binding of the transcription factors RAP1, BAS1, and BAS2. Two RAP1 binding sites can substitute for the wild-type initiation site. A 51-bp region of telomeric DNA inserted upstream of either HIS4 or ARG4 very strongly stimulates recombination. We suggest that the ability of transcription factors to induce recombination is a consequence of an altered chromatin structure that favors the entry of proteins that initiate recombination, rather than an effect of these factors on transcription.

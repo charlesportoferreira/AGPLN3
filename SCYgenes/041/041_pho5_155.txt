@@ -1,0 +1,3 @@
+Expression of human salivary alpha-amylase gene in Saccharomyces cerevisiae and its secretion using the mammalian signal sequence.
+
+A cDNA fragment coding for human salivary alpha-amylase precursor was joined to the promoter of the Saccharomyces cerevisiae PHO5 gene, and the recombinant gene was inserted into a vector plasmid capable of autonomous replication in yeast. Yeast cells transformed with this recombinant plasmid synthesized about 5 X 10(5) molecules of the enzyme per cell when synthesis was induced by deprivation of inorganic phosphate and released about half of the synthesized enzyme into the medium. The enzyme is stable, and exhibited the same specific activity as alpha-amylase in human saliva. The amylase-producing yeast grew on starch and produced alcohol.

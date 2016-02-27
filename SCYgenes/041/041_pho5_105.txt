@@ -1,0 +1,3 @@
+The yeast phosphatase system.
+
+Yeast cells produce a set of enzymes which are involved in the metabolism of phosphate, and include acid and alkaline phosphatases as well as permeases. Most of these enzymes are synthesized in response to the presence or absence of inorganic phosphate. In the past few years a considerable amount of genetic and molecular evidence has accumulated and a rather precise overall picture emerges which describes the mechanism of phosphate control at the level of gene activation. This mini-review summarizes these data. The main focus lies on the regulatory features associated with the control of transcription of PHO5, a gene coding for most of the regulated acid phosphatase activity produced by yeast cells.

@@ -1,0 +1,3 @@
+Recognition of telomeric DNA.
+
+The three-dimensional structure of the yeast telomere-binding protein RAP1 in complex with DNA provides the first insight into telomeric DNA recognition. RAP1 binds to DNA via two Myb/homeodomain-like motifs, which are DNA-binding folds previously identified in transcription factors. This, together with the finding that human TRF1 and other telomere-binding factors contain Myb-like motifs, has led us to speculate that a conserved protein fold might be used for telomeric DNA recognition.

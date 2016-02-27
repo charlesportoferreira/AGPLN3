@@ -1,0 +1,3 @@
+Initiation on chromatin templates in a yeast RNA polymerase II transcription system.
+
+Templates were prepared with either the TATA box or transcription start sites of the yeast CYC1 promoter in a nucleosome. In both cases, initiation in an unfractionated yeast RNA polymerase II transcription system was abolished by the nucleosome. The inhibition appeared to be relieved by the activator protein Gal4-VP16 binding to a site upstream of the promoter. Inhibition was not relieved, however, in a transcription system reconstituted from purified components, indicating a requirement for additional factors for the effect of Gal4-VP16.

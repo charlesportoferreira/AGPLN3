@@ -1,0 +1,3 @@
+Expression of human pancreatic secretory trypsin inhibitor in Saccharomyces cerevisiae.
+
+Human pancreatic secretory trypsin inhibitor (PSTI) cDNA was expressed in Saccharomyces cerevisiae using the yeast acid phosphatase PHO5 promoter. The product encoded by the PSTI-coding cDNA was correctly processed in yeast cells, and the PSTI molecules were efficiently secreted into the medium. The amino acid composition and the N-terminal amino acid sequence of the secreted PSTI molecules were identical to those of the authentic PSTI polypeptides from human pancreas, and the product exhibited trypsin-inhibitory activity.

@@ -1,0 +1,3 @@
+Expression of a yeast gene can be blocked by insertion of short yeast DNA fragments between a UAS and the TATA box.
+
+We have constructed a plasmid, pOV10, which facilitates the introduction of putative upstream activating sequences (UAS) or upstream repressing sequences (URS) from yeast genes into plasmids containing CYCl-lacZ fusions. We have observed that the insertion of yeast sequences from 155 to 195 bp between the UAS and the TATA box of a CYCl-lacZ fusion gene can block beta-galactosidase expression. It is suggested that this block is related to the formation of nucleosomes on the DNA.

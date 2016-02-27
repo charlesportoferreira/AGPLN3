@@ -1,0 +1,3 @@
+SPT6, an essential gene that affects transcription in Saccharomyces cerevisiae, encodes a nuclear protein with an extremely acidic amino terminus.
+
+SPT6 is an essential gene of Saccharomyces cerevisiae that appears to play a role in transcription. Mutations in the SPT6 (SSN20, CRE2) gene suppress delta insertion mutations in the 5' regions of HIS4 and LYS2 and mutations in cis- and/or trans-acting elements that are required for expression of SUC2 and ADH2. We report here that SPT6 encodes a 170-kilodalton highly charged protein with an extremely acidic amino terminus. By use of an epitope-tagged SPT6 protein, we have determined by indirect immunofluorescence that the SPT6 protein is located in the nucleus.

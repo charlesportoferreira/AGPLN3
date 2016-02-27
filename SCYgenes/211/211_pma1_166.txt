@@ -1,0 +1,3 @@
+The Saccharomyces cerevisiae start mutant carrying the cdc25 mutation is defective in activation of plasma membrane ATPase by glucose.
+
+Activation of plasma membrane ATPase by the addition of glucose was examined in several cell division cycle mutants of Saccharomyces cerevisiae. The start mutant carrying the cdc25 mutation was shown to be defective in ATPase activation at the restrictive temperature. Genetic analysis showed that lack of growth and defective activation of ATPase at the restrictive temperature were caused by the same mutation. It was also found that CDC25 does not map at the same locus as the structural gene of plasma membrane ATPase (PMA1). We conclude that the product of CDC25 controls the activation of ATPase.

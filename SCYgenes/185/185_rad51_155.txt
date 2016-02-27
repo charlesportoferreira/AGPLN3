@@ -1,0 +1,3 @@
+Cold-sensitive rad52 alleles of yeast.
+
+We have characterized two rad52 mutations that are cold-sensitive for growth on MMS agar. The mutations change residues 61 and 69, respectively, in the 504 amino-acid open reading frame. Neither mutation has a profound effect on mitotic crossing-over or on gene conversion. One has a severe deficiency in sporulation at all temperatures, while the other has a partial deficiency and reduced spore viability. Both mutants are retarded in growth on MMS agar by a high-copy plasmid expressing RAD51.

@@ -1,0 +1,3 @@
+Conservation of binding site specificity of three yeast DNA binding proteins.
+
+Sequence specific binding of protein extracts from 13 different yeast species to three oligonucleotide probes and two points mutants derived from Saccharomyces cerevisiae DNA binding proteins were tested using mobility shift assays. The probes were high affinity binding sites for GRF1/RAP1/ABF1 and CP1/CPF1. Most yeasts in the genus Saccharomyces showed specific binding to all three probes and also displayed similar sequence requirements when challenged by molar excesses of mutant probes. The affinities for the probes varied amongst the other yeasts tested, but in general, CPF1 binding activity was the most widespread, while the other two were more limited.

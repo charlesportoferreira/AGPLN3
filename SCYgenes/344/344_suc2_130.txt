@@ -1,0 +1,3 @@
+Subunit structure of external invertase from Saccharomyces cerevisiae.
+
+Because 50% of the mass of the external invertase of Saccharomyces cerevisiae consists of carbohydrate, it has been extremely difficult to obtain an accurate molecular weight of this enzyme by centrifugal or electrophoretic techniques. However, on removing almost all of the oligosaccharide chains of this enzyme with the endo-beta-N-acetyl-glucosaminidase H from Streptomyces plicatus, it has been possible to show that carbohydrate-free invertase is composed of two 60,000-dalton subunits. Terminal sequence analysis with carboxypeptidases A, B, and Y provided strong evidence that the subunits are identical.

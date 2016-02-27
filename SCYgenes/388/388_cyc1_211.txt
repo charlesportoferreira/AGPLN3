@@ -1,0 +1,3 @@
+A point mutation in the CYC1 UAS1 creates a new combination of regulatory elements that activate transcription synergistically.
+
+Dissection of the upstream activation site 1 (UAS1) of the yeast CYC1 gene showed that the A and B regions respond individually to regulation by the HAP1 protein, and that a point mutation in the B region converts this region to a translation upstream factor (TUF)-regulated element. Combinatorial analyses revealed that the transacting factors involved with these wild-type and mutant UAS1 target sites combine to activate transcription in a synergistic manner. Furthermore, combinations of heterologous factors, made possible by the point mutation, create a new specificity of regulation that differs from regulation by any one factor individually.

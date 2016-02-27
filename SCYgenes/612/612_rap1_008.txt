@@ -1,0 +1,3 @@
+Transcription of genes encoding trans-acting factors required for rRNA maturation/ribosomal subunit assembly is coordinately regulated with ribosomal protein genes and involves Rap1 in Saccharomyces cerevisiae.
+
+We demonstrate that the genes encoding trans- acting factors essential for pre-rRNA processing/ribosomal subunit assembly are responsive to various kinds of stresses such as heat shock, nitrogen deprivation and a secretory defect, in coordination with ribosomal protein genes in Saccharomyces cerevisiae. The rap1-17 mutation, which produces the C-terminally truncated protein of a transcriptional factor Rap1p, affects transcriptional repression of the trans-acting factor genes due to a secretory defect as shown previously for both ribosomal protein and rRNA genes.

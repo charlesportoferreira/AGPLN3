@@ -1,0 +1,3 @@
+Does a stretched DNA structure dictate the helical geometry of RecA-like filaments?
+
+Proteins in the RecA/Rad51/RadA/UvsX family form helical filaments on DNA in which the DNA is stretched and untwisted. A comparison of the average helical parameters of these filaments from five different proteins, obtained from archaea, eubacteria and eukaryotes, suggests that an intrinsic state of DNA may be responsible for the conservation of these particular filament forms across evolution. In this view, these proteins stabilize this existing state of DNA, rather than induce a novel conformation. Copyright 2001 Academic Press.

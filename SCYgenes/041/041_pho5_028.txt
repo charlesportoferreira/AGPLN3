@@ -1,0 +1,3 @@
+Roles of phosphorylation sites in regulating activity of the transcription factor Pho4.
+
+Transcription factors are often phosphorylated at multiple sites. Here it is shown that multiple phosphorylation sites on the budding yeast transcription factor Pho4 play distinct and separable roles in regulating the factor's activity. Phosphorylation of Pho4 at two sites promotes the factor's nuclear export and phosphorylation at a third site inhibits its nuclear import. Phosphorylation of a fourth site blocks the interaction of Pho4 with the transcription factor Pho2. Multiple phosphorylation sites provide overlapping and partially redundant layers of regulation that function to efficiently control the activity of Pho4.

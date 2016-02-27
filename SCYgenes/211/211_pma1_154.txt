@@ -1,0 +1,3 @@
+Cloning and expression of the yeast plasma membrane ATPase in Escherichia coli.
+
+The yeast plasma membrane ATPase gene PMA1 was cloned into Escherichia coli using the high expression tac and T7 promoters. The gene product is toxic to the bacterial cell leading to very low expression levels and arrested growth of the host cell within minutes of induction. The expressed protein is immunologically cross-reactive with the yeast ATPase, comigrates with the original protein in sodium dodecyl sulfate-polyacrylamide gels, and is isolated in the E. coli membrane fraction. The partially purified protein exhibits ATPase activity.

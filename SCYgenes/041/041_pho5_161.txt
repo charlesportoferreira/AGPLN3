@@ -1,0 +1,3 @@
+Characteristics of hepatitis B surface antigen produced in yeast.
+
+We have constructed an expression plasmid for regulated expression of the hepatitis B surface antigen gene in yeast using promoter of the yeast Pho5 gene. In the yeast transformants, the monomeric HBsAg (22K dalton) was estimated to constitute approximately 3% of the total proteins. On extraction, the HBsAg was found to have a buoyant density of 1.18 g/ml and an Sw.20 value of 54. Electron microscopy revealed particles of heterogeneous size ranging from 18-28 nm. When the yeast HBsAg was used to immunize guinea pigs, the anti-HBsAg antibodies produced could react with human serum HBsAg.

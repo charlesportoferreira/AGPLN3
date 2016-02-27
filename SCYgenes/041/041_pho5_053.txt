@@ -1,0 +1,3 @@
+Signaling phosphate starvation.
+
+Phosphate starvation induces the transcription of several genes involved in phosphate metabolism in the budding yeast Saccharomyces cerevisiae. The signal transduction pathway that mediates this response consists of components that resemble those used to regulate the eukaryotic cell cycle; these include a cyclin-dependent kinase or CDK (Pho85), a cyclin (Pho80) and a CDK inhibitor (Pho81). The possibility that this pathway mediates cell-cycle responses to phosphate starvation is discussed.

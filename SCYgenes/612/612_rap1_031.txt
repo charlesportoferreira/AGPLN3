@@ -1,0 +1,3 @@
+Isolation of a Candida glabrata homologue of RAP1, a regulator of transcription and telomere function in Saccharomyces cerevisiae.
+
+To study the function of RAP1, an essential gene involved in the regulation of transcriptional activation, silencing and the telomere function in Saccharomyces cerevisiae, we isolated a Candida glabrata gene that complements the growth defect of a S. cerevisiae rap1 conditional mutant. The DNA sequence of the cloned gene, which we designated CgRAP1, predicted a 2064 bp open reading frame encoding a 687 amino acid protein with an overall identity of 65% and a similarity of 78% to Rap1p from S. cerevisiae. Copyright 2001 John Wiley &amp; Sons, Ltd.

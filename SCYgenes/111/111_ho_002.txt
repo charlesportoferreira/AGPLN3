@@ -1,0 +1,3 @@
+Diversity of Y region at HML locus in a Saccharomyces cerevisiae strain isolated from a Sardinian wine.
+
+Several mutations in genes involved in Saccharomyces mating type switching may affect the homothallic behaviour in wine yeasts. In this study the semi-homothallic (Hq) segregation of a flor wine yeast strain was analysed. We aimed to understand the molecular basis of this behaviour in a flor autochthonous strain, verifying the MAT locus status by a PCR-based HO gene disruption and sequencing of the Y region of the HML, HMR and MAT loci, after nested PCR. Presence of ORFs a1 and a2 in the Y region of the HML locus was found. At the ORF a2 at HML locus, a mutation in the stop codon was found, so the a2 ORF contains 33 more bases.

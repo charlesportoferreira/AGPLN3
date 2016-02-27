@@ -1,0 +1,3 @@
+Refolding a disulfide dimer of cytochrome c.
+
+A covalent dimer of Saccharomyces cerevisiae iso-1 cytochrome c is stabilized by an interchain disulfide bond involving the cysteine residue penultimate to the C-terminus. The individual chains in the dimer appear to retain the tertiary structural features characteristic for monomeric cytochrome c albeit with some perturbation. The dimer is reversibly denatured by heat, urea, or guanidine hydrochloride in a single cooperative transition whose midpoint is less than that of the monomeric protein. The kinetic profile observed for the refolding of the denatured dimer is characteristic for monomeric cytochromes except for a markedly enhanced slow-phase amplitude.

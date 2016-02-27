@@ -1,0 +1,3 @@
+Molecular model for telomeric heterochromatin in yeast.
+
+A molecular model for the formation of yeast core telomeric heterochromatin has been proposed recently. The RAP1 protein provides the specificity for the localization of heterochromatin through its recognition of telomeric DNA sequences. Its complexing with silencing information regulators (SIR2, SIR3 and SIR4) and histones H3 and H4 generates a folded-back DNA structure. This not only represses adjacent genes through SIR-protein-histone interactions, but also enables condensation and protection of the telomeric end. The SIR2 and SIR4 levels at the core differ from those in the extended telomeric heterochromatin produced when the limiting protein, SIR3, is overexpressed.

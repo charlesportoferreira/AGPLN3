@@ -1,0 +1,3 @@
+Nucleosomes unfold completely at a transcriptionally active promoter.
+
+It has long been known that promoter DNA is converted to a nuclease-sensitive state upon transcriptional activation. Recent findings have raised the possibility that this conversion reflects only a partial unfolding or other perturbation of nucleosomal structure, rather than the loss of nucleosomes. We report topological, sedimentation, nuclease digestion, and ChIP analyses, which demonstrate the complete unfolding of nucleosomes at the transcriptionally active PHO5 promoter of the yeast Saccharomyces cerevisiae. Although nucleosome loss occurs at all promoter sites, it is not complete at any of them, suggesting the existence of an equilibrium between the removal of nucleosomes and their reformation.

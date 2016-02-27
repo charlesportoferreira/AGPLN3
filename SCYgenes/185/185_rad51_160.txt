@@ -1,0 +1,3 @@
+Embryonic lethality and radiation hypersensitivity mediated by Rad51 in mice lacking Brca2.
+
+Inherited mutations in the human BRCA2 gene cause about half of the cases of early-onset breast cancer. The embryonic expression pattern of the mouse Brca2 gene is now defined and an interaction identified of the Brca2 protein with the DNA-repair protein Rad51. Developmental arrest in Brca2-deficient embryos, their radiation sensitivity, and the association of Brca2 with Rad51 indicate that Brca2 may be an essential cofactor in the Rad51-dependent DNA repair of double-strand breaks, thereby explaining the tumour-suppressor function of Brca2.

@@ -1,0 +1,3 @@
+DNA-binding protein RAP1 stimulates meiotic recombination at the HIS4 locus in yeast.
+
+In the yeast Saccharomyces cerevisiae, as in other eukaryotes, some regions of the genome have a much higher rate of meiotic recombination than others. We show below that the binding of the RAP1 protein to a site upstream of the HIS4 gene is necessary for a high rate of meiotic (but not mitotic) recombination at this locus. A mutation in the RAP1 binding site at HIS4 results in a decrease in recombination; overproduction of RAP1 causes an increase in recombination at HIS4 above wild-type levels.

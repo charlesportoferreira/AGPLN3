@@ -1,0 +1,3 @@
+Double-strand break repair: are Rad51/RecA--DNA joints barriers to DNA replication?
+
+The central step of homologous recombination is the DNA strand exchange reaction catalyzed by bacterial RecA or eukaryotic Rad51. Besides Rad51-mediated synthesis-dependent strand annealing (SDSA), DNA ends can promote replication in Escherichia coli (recombination-dependent replication, RDR) and yeast (break-induced replication, BIR). However, what causes a DNA end to be repaired via SDSA or via BIR/RDR? I propose that Rad51/RecA--DNA plectonemic joints act as barriers to DNA replication and that BIR/RDR is only possible when the DNA polymerase that synthesizes DNA from the invading 3' end does not encounter RecA/Rad51--DNA joints in its path.

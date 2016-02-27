@@ -1,0 +1,3 @@
+Nucleotide sequence of the yeast SUC2 gene for invertase.
+
+The yeast SUC2 gene is a structural gene for both the secreted and intracellular forms of invertase. We have determined the nucleotide sequence of the coding region and the 5' and 3' flanking regions. The coding regions for the signal peptide-containing precursor to secreted invertase and for the intracellular invertase begin at different initiation codons within the SUC2 gene but share the same reading frame. The amino acid sequences predicted for the two forms of invertase from the nucleotide sequence are consistent with the properties of the purified enzymes. Potential sites for glycosylation of the secreted invertase are identified.

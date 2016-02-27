@@ -1,0 +1,3 @@
+Association of BRCA1 with Rad51 in mitotic and meiotic cells.
+
+BRCA1 immunostaining reveals discrete, nuclear foci during S phase of the cell cycle. Human Rad51, a homolog of bacterial RecA, behaves similarly. The two proteins were found to colocalize in vivo and to coimmunoprecipitate. BRCA1 residues 758-1064 alone formed Rad51-containing complexes in vitro. Rad51 is also specifically associated with developing synaptonemal complexes in meiotic cells, and BRCA1 and Rad51 were both detected on asynapsed (axial) elements of human synaptonemal complexes. These findings suggest a functional interaction between BRCA1 and Rad51 in the meiotic and mitotic cell cycles, which, in turn, suggests a role for BRCA1 in the control of recombination and of genome integrity.

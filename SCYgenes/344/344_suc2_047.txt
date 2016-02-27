@@ -1,0 +1,3 @@
+Sudden depletion of carbon source blocks translation, but not transcription, in the yeast Saccharomyces cerevisiae.
+
+Expression of invertase in the yeast Saccharomyces cerevisiae is greatly delayed when derepression occurs in a medium that lacks a usable carbon source. The delay is not a consequence of defects in the transcription of the SUC2 gene but is due to the impossibility of translating the normal levels of mRNA generated under derepressing conditions. The inhibition of translation in the absence of glucose has to be considered when reporter genes such as E. coli lacZ are used to measure transcription in conditions of carbon source starvation.

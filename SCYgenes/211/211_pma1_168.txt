@@ -1,0 +1,3 @@
+In vivo glucose activation of the yeast plasma membrane ATPase.
+
+The addition of glucose to yeast cells activates proton efflux mediated by the plasma membrane ATPase. Accordingly, the ATPase activity of purified plasma membranes is increased up to 10-fold. The activated ATPase has a more alkaline pH optimum, better affinity for ATP and greater sensitivity to vanadate than the non-activated enzyme. All these changes are reversed by washing the cells free of glucose. This suggests two states of the ATPase which are interconverted by a covalent modification. As glucose does not affect the phosphorylation of plasma membrane polypeptides, other type of covalent modification may be involved.

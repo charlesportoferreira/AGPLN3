@@ -1,0 +1,3 @@
+Rapid isolation of yeast plasmids as native chromatin.
+
+Many regions of chromatin are subject to dynamic changes. We have developed a rapid method for isolation of small chromatin templates from yeast which will facilitate biochemical analysis of chromatin composition. Using the PHO5 promoter we show that templates prepared from cells grown in inducing or repressing conditions show native chromatin structures. This method may be widely applicable as the chromatin structures at a centromere, at ARS1 and at part of the lacZ region on two other plasmids are preserved after chromatin isolation.

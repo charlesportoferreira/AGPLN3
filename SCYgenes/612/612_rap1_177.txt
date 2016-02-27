@@ -1,0 +1,3 @@
+Saccharomyces cerevisiae multifunctional protein RAP1 binds to a conserved sequence in the Polyoma virus enhancer and is responsible for its transcriptional activity in yeast cells.
+
+The Polyoma virus enhancer (A + B domain) activates transcription in Saccharomyces cerevisiae when joined to appropriate yeast promoter elements. We demonstrate by DNase I footprints and inhibition of binding by specific antibody, that the yeast protein RAP1 binds to the B-domain of the Polyoma enhancer and, at least in some promoter contexts, is responsible for transcriptional activity of the enhancer B-domain in yeast. Close matches to a consensus RAP1-binding site are also present in other viral enhancers.

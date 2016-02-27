@@ -1,0 +1,3 @@
+Crystallization and preliminary diffraction data for iso-1-cytochrome c from yeast.
+
+Deep red crystals of the electron transfer protein, iso-1-cytochrome c from yeast (Saccharomyces cerevisiae), have been obtained from a 90% saturated solution of (NH4)2SO4 containing 2 mg protein/ml, 0.1 M-sodium phosphate and adjusted to pH 6.7. The space group is P4(1)2(1)2 (or P4(3)2(1)2) with a = b = 36.4 A, c = 136.8 A and Z = 8. Crystals are stable for at least ten days in the X-ray beam and diffract to better than 2.0 A resolution. Comparable and morphologically similar crystal forms of three iso-1-cytochrome c mutants at Phe87, a pivotal residue in the electron transport chain, have also been obtained.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stopfile>
+	<stopword>All</stopword>
+	<stopword>all</stopword>
+	<stopword>Such</stopword>
+	<stopword>Both</stopword>
+	<stopword>both</stopword>
+</stopfile>
+

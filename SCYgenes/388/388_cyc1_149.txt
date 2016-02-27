@@ -1,0 +1,2 @@
+The INO1 promoter of Saccharomyces cerevisiae includes an upstream repressor sequence (URS1) common to a diverse set of yeast genes.
+

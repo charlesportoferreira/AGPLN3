@@ -1,0 +1,3 @@
+Polymeric SUC genes in natural populations of Saccharomyces cerevisiae.
+
+The comparative chromosomal locations of polymeric beta-fructosidase SUC genes have been determined by Southern blot hybridization with the SUC2 probe in 91 different strains of Saccharomyces cerevisiae. Most of the strains exhibited a single SUC2 gene, but in some strains two or three SUC genes were found. All Suc- strains carried a silent suc2(zero) sequence. The accumulation of SUC genes was observed in populations derived from sources containing sucrose and seems to be absent in strains from sources promoting the MEL gene.
