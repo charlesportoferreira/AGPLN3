@@ -13,7 +13,6 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Random;
 import java.util.concurrent.Callable;
 import java.util.logging.Level;
@@ -23,6 +22,8 @@ import weka.classifiers.functions.SMO;
 import weka.classifiers.lazy.IBk;
 import weka.classifiers.misc.HyperPipes;
 import weka.core.Instances;
+import wekaprocessing.StoplistGenerator;
+import wekaprocessing.WekaProcessing;
 
 /**
  *
@@ -89,36 +90,18 @@ public class Cromossomo implements Callable<String> {
 
     public double getFitness() {
         if (fitness == 0) {
-            //String geneDecodificado = this.getGeneDecodificado();
-//            if (syncHashMap.containsKey(geneDecodificado)) {
-//                String[] res = syncHashMap.get(geneDecodificado).split("-");
-//                this.fitness = Double.parseDouble(res[0]);
-//                this.pctAcerto = Double.parseDouble(res[0]);
-//                this.microAverage = Double.parseDouble(res[1]);
-//                this.macroAverage = Double.parseDouble(res[2]);
-//                this.numAtributos = Integer.parseInt(res[3]);
-//
-//                //System.out.print("calculado: " + geneDecodificado + " " + fitness);
-//            } else {
             calculaFitness();
-            //}
         }
         return fitness;
     }
 
     public void calculaFitness() {
-        // Instant inicio = Instant.now();
         List<String> stoplists = decodificaCromossomo();
-        //System.out.println(stoplists.toString());
         //criaArff(stoplists);
-        criaArff2(stoplists);
-        // Instant fim = Instant.now();
-        // Duration duracao = Duration.between(inicio, fim);
-        // System.out.println("Duracao construir tabela " + inId + " " + duracao + " segundos");
-        // this.fitness = new Random().nextInt();
+//        criaArff2(stoplists);
+        Instances data = criaArff3(stoplists);
+        classifica(data);
 
-        //java -jar PretextExecutor.jar -b  -ma 0-0 -mf 0-0 -g 1 -sl stoplist -sf CC.xml,CD.xml,DT.xml -d 0 -f tfidf
-        classifica();
         limparDados();
     }
 //************** Verificar as stoplists que estao sendo usadas ***********************
@@ -130,9 +113,9 @@ public class Cromossomo implements Callable<String> {
         //     "TO.xml", "UH.xml", "VB.xml", "VBD.xml", "VBG.xml", "VBN.xml", "VBP.xml", "VBZ.xml", "WDT.xml",
         //     "WP.xml", "WP$.xml", "WRB.xml"};
 
-        String[] stopLists = {"DT.xml", "FW.xml", "IN.xml",
-            "JJ.xml", "JJR.xml", "JJS.xml", "NN.xml", "NNS.xml", "NNP.xml", "NNPS.xml", "RB.xml",
-            "VB.xml", "VBD.xml", "VBG.xml", "VBN.xml", "VBP.xml", "VBZ.xml"};
+        String[] stopLists = {"ingl.text", "DT.text", "FW.text", "IN.text",
+            "JJ.text", "JJR.text", "JJS.text", "NN.text", "NNS.text", "NNP.text", "NNPS.text", "RB.text",
+            "VB.text", "VBD.text", "VBG.text", "VBN.text", "VBP.text", "VBZ.text"};
 
         for (String stopList : stopLists) {
             genes.add(new Gene(stopList));
@@ -187,19 +170,19 @@ public class Cromossomo implements Callable<String> {
         return String.valueOf("Meu fitness: " + fitness);
     }
 
-    private void classifica() {
+    private void classifica(Instances data) {
         // System.out.println("Executando a classificao do :" + inId);
         SMO classifier = new SMO();
         //  IBk classifier = new IBk(5);
         // HyperPipes classifier = new HyperPipes();
-        //BufferedReader datafile = readDataFile(inId + ".arff");
-        BufferedReader datafile = readDataFile("resultadoPretext.arff");
+        // BufferedReader datafile = readDataFile(inId + ".arff");
+        //BufferedReader datafile = readDataFile("resultadoPretext.arff");
 
-        Instances data;
+        // Instances data;
         Evaluation eval;
         try {
-            data = new Instances(datafile);
-            data.setClassIndex(data.numAttributes() - 1);
+            // data = new Instances(datafile);
+            data.setClassIndex(0);// a classe 0 é o primeiro atributo
             numAtributos = data.numAttributes();
             eval = new Evaluation(data);
             Random rand = new Random(1); // usando semente = 1
@@ -214,9 +197,7 @@ public class Cromossomo implements Callable<String> {
             macroAverage = getMacroAverage(eval, data);
             macroAverage = new BigDecimal(macroAverage).setScale(2, RoundingMode.HALF_UP).doubleValue();
             fitness = pctAcerto;
-            //syncHashMap.put(getGeneDecodificado(), fitness + "-" + microAverage + "-" + macroAverage + "-" + numAtributos);
 
-            // System.out.println("id: " + inId + " acerto: " + fitness);
         } catch (Exception ex) {
             System.out.println("Erro ao tentar fazer a classificacao");
             System.out.println("Meu ID eh " + inId);
@@ -312,7 +293,7 @@ public class Cromossomo implements Callable<String> {
         conjuntoStolists.replace(index, index + 1, "");
 
         try {
-            Process p = Runtime.getRuntime().exec("java -jar PretextExecutor.jar -b SCYgenes -ma 0-0 -mf 0-0 -g 1 -sl stoplist -sf " + conjuntoStolists + " -d 0 -f tfidf");  //executa o pretext
+            Process p = Runtime.getRuntime().exec("java -jar PretextExecutor.jar -b r10 -ma 0-0 -mf 0-0 -g 1 -sl stoplist -sf " + conjuntoStolists + " -d 0 -f tfidf");  //executa o pretext
             p.waitFor();
             Process p2 = Runtime.getRuntime().exec("java -jar PretextTOWeka.jar");  // executa cria arquivo arff
             p2.waitFor(); //aguarda fim do processo 
@@ -321,9 +302,25 @@ public class Cromossomo implements Callable<String> {
         }
     }
 
+    private Instances criaArff3(List<String> stoplists) {
+        Instances data;
+        try {
+            StoplistGenerator.generate(stoplists, this.inId + ".text");
+            data = WekaProcessing.exec(this.inId + ".text");
+        } catch (IOException ex) {
+            // Logger.getLogger(wekaprocessing.Start.class.getName()).log(Level.SEVERE, null, ex);
+            data = null;
+        } catch (Exception ex) {
+            Logger.getLogger(Cromossomo.class.getName()).log(Level.SEVERE, null, ex);
+            data = null;
+        }
+        return data;
+    }
+
     private void limparDados() {
         try {
-            Runtime.getRuntime().exec("rm resultadoPretext.arff");
+            Runtime.getRuntime().exec("rm " + this.inId + ".arff");
+            Runtime.getRuntime().exec("rm " + this.inId + ".text");
         } catch (IOException ex) {
             //  Logger.getLogger(ReducaoStopWords1.class.getName()).log(Level.SEVERE, null, ex);
         }

@@ -40,7 +40,7 @@ public class AGPLN3 {
 
     public void criaPopulacaoInicial() {
         //synchronizedHashMap.put("DT", 100.0);
-        int tamanhoPop = 10;
+        int tamanhoPop = 50;
         for (int i = 0; i < tamanhoPop; i++) {
             cromossomos.add(new Cromossomo(36));
         }
@@ -52,14 +52,15 @@ public class AGPLN3 {
         cromossomos.stream().forEach((cromossomo) -> {
             cromossomo.getGenes().stream().forEach((gene) -> {
                 gene.setValor(random.nextInt(max - min + 1) + min);
-
             });
         });
 
         Cromossomo test = cromossomos.get(0);
         for (Gene gene : test.getGenes()) {
-            if (gene.getNome().equals("JJS") || gene.getNome().equals("RB") || gene.getNome().equals("FW") || gene.getNome().equals("VBN")) {
+            if (gene.getNome().equals("ingl.text")) {
                 gene.setValor(1);
+            } else {
+                gene.setValor(0);
             }
         }
 
@@ -205,30 +206,30 @@ public class AGPLN3 {
         //ExecutorService pool = Executors.newFixedThreadPool(4);
 
         //  para rodar o calculo do fitnes em modo serial
-        int total = cromossomos.size();
-        int feito = 0;
-        for (Cromossomo cromossomo : cromossomos) {
-            cromossomo.getFitness();
-            feito++;
-            System.out.print("\r"+100 * feito / total + "% " + feito + " de " + total);
-        }
-        //  System.exit(0);
-//        ExecutorService pool = Executors.newWorkStealingPool();
+//        int total = cromossomos.size();
+//        int feito = 0;
 //        for (Cromossomo cromossomo : cromossomos) {
-//            //cromossomo.syncHashMap = this.synchronizedHashMap;
-//            Future f = pool.submit(cromossomo);
-//            futures.add(f);
+//            cromossomo.getFitness();
+//            feito++;
+//            System.out.print("\r"+100 * feito / total + "% " + feito + " de " + total);
 //        }
-//        for (Future future : futures) {
-//            try {
-////                System.out.println(future.get());
-//                future.get();
-//            } catch (InterruptedException | ExecutionException ex) {
-//                ex.printStackTrace();
-//                throw new RuntimeException("erro na paralelizacao do fitness");
-//            }
-//        }
-//        pool.shutdown();
+        //  System.exit(0);
+        ExecutorService pool = Executors.newWorkStealingPool();
+        for (Cromossomo cromossomo : cromossomos) {
+            //cromossomo.syncHashMap = this.synchronizedHashMap;
+            Future f = pool.submit(cromossomo);
+            futures.add(f);
+        }
+        for (Future future : futures) {
+            try {
+//                System.out.println(future.get());
+                future.get();
+            } catch (InterruptedException | ExecutionException ex) {
+                ex.printStackTrace();
+                throw new RuntimeException("erro na paralelizacao do fitness");
+            }
+        }
+        pool.shutdown();
 
         List<Cromossomo> selecionados = new ArrayList<>();
         for (Cromossomo cromossomo : cromossomos) {
@@ -295,7 +296,7 @@ public class AGPLN3 {
                     + "AC:" + selecionado.getPctAcerto() + " - "
                     + "atr:" + selecionado.getNumAtributos() + " - "
                     + "id:" + selecionado.getInId() + " - "
-                    + "st:" + selecionado.getGeneDecodificado() + "\n"
+                    + "st:" + selecionado.getGeneDecodificado().replace(".text", "") + "\n"
             );
             // preperaPrint(selecionado);
             if (map.containsKey(selecionado.getFitness())) {

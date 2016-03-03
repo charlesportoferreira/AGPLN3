@@ -32,16 +32,8 @@ public class Start {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        String a = "1-2-3";
-//        String b = "1-2-";
-//
-//        String[] c = a.split("-");
-//        String[] d = b.split("-");
-//        System.out.println("c:" + c.length);
-//        System.out.println("d:" + d.length);
-//        System.exit(0);
 
-        int numGeracoes = 100;
+        int numGeracoes = 500;
         limpaDados();
 
         if (args.length > 0) {
@@ -53,11 +45,7 @@ public class Start {
         }
 
         AGPLN3 agpln2 = new AGPLN3();
-       // try {
-       //     atualizaMapaFitness("banco.txt", agpln2.synchronizedHashMap);
-       // } catch (IOException ex) {
-     //       Logger.getLogger(Start.class.getName()).log(Level.SEVERE, null, ex);
-       // }
+      
 
         String fileName = new Date().toString();
         agpln2.criaPopulacaoInicial();
@@ -71,12 +59,7 @@ public class Start {
         }
 
         StringBuilder sb = new StringBuilder();
-        Iterator it = agpln2.synchronizedHashMap.entrySet().iterator();
-        while (it.hasNext()) {
-            Map.Entry pair = (Map.Entry) it.next();
-            sb.append(pair.getKey()).append(" = ").append(pair.getValue()).append("\n");
-            it.remove(); // avoids a ConcurrentModificationException
-        }
+
 
         try {
             deletaArquivoExistente("banco.txt");
@@ -113,12 +96,10 @@ public class Start {
                     // System.out.println(new String(dpt) + content.getName() + " " + content.getPath() );
                     //System.out.println(content.toString());
 
-                    if (content.getName().contains(".names")
-                            || content.getName().contains(".data")
-                            || content.getName().contains(".arff")) {
-                        if (!content.getName().contains("discover")) {
-                            filePaths.add(content.toString());
-                        }
+                    if (content.getName().contains(".arff")) {
+
+                        filePaths.add(content.toString());
+
                     }
 
                 }

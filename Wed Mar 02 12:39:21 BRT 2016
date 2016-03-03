@@ -1,0 +1,15 @@
+
+
+ Geracao: 0
+F:77.38 - MI:0.84 - MA:0.77 - AC:77.38 - atr:5127 - id:1 - st:DT.text,FW.text,JJ.text,JJS.text,NNS.text,NNPS.text,RB.text,VBD.text,VBZ.text
+F:77.02 - MI:0.84 - MA:0.77 - AC:77.02 - atr:4867 - id:10 - st:DT.text,IN.text,JJ.text,JJR.text,JJS.text,NNS.text,NNPS.text,RB.text,VB.text,VBZ.text
+F:75.76 - MI:0.84 - MA:0.76 - AC:75.76 - atr:4583 - id:14 - st:DT.text,IN.text,NNP.text,VBN.text
+F:73.43 - MI:0.81 - MA:0.73 - AC:73.43 - atr:3963 - id:12 - st:DT.text,FW.text,IN.text,JJ.text,JJS.text,NN.text,NNPS.text,VB.text,VBG.text,VBN.text,VBP.text
+F:48.29 - MI:0.59 - MA:0.47 - AC:48.29 - atr:3128 - id:7 - st:FW.text,IN.text,JJ.text,JJR.text,JJS.text,NN.text,NNPS.text,VB.text,VBD.text,VBG.text,VBN.text
+F:75.22 - MI:0.83 - MA:0.75 - AC:75.22 - atr:3798 - id:9 - st:DT.text,FW.text,IN.text,JJ.text,JJS.text,NNS.text,NNP.text,NNPS.text,RB.text,VB.text,VBD.text,VBG.text,VBN.text,VBZ.text
+F:48.65 - MI:0.6 - MA:0.47 - AC:48.65 - atr:2992 - id:0 - st:DT.text,JJ.text,JJS.text,NNS.text,NNP.text,VB.text,VBG.text,VBN.text,VBP.text
+F:73.7 - MI:0.82 - MA:0.73 - AC:73.7 - atr:3936 - id:15 - st:FW.text,JJ.text,JJR.text,NNS.text,NNP.text,VB.text,VBD.text,VBG.text,VBZ.text
+F:66.97 - MI:0.76 - MA:0.67 - AC:66.97 - atr:4591 - id:4 - st:DT.text,FW.text,IN.text,JJ.text,JJS.text,NNPS.text,RB.text,VB.text,VBD.text,VBG.text,VBN.text,VBZ.text
+F:73.43 - MI:0.81 - MA:0.73 - AC:73.43 - atr:3938 - id:11 - st:DT.text,FW.text,IN.text,JJ.text,NN.text,NNS.text,VB.text,VBD.text,VBG.text,VBP.text
+F:65.44 - MI:0.75 - MA:0.66 - AC:65.44 - atr:5162 - id:3 - st:FW.text,IN.text,JJ.text,JJR.text,NNS.text,NNPS.text,VBN.text
+F:73.7 - MI:0.81 - MA:0.73 - AC:73.7 - atr:4144 - id:8 - st:DT.text,FW.text,JJ.text,JJS.text,NN.text,NNPS.text,RB.text,VBD.text,VBG.text,VBZ.text

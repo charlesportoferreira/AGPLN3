@@ -1,1 +1,1 @@
-slide end label | method to avoid artifact in nucleosom posit | nt size | 
+sliding end labelling | a method to avoid artifacts in nucleosome positioning | nt size | 

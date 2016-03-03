@@ -1,6 +1,0 @@
-set terminal latex
-set pointsize 1.5
-set output '1-StdDev.tex'
-plot '1-StdDev.dat' with linespoints
-set output '1-StdDevFF.tex'
-plot '1-StdDevFF.dat' with linespoints
